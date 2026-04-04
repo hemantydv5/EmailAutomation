@@ -1,0 +1,6 @@
+@EmailAutomation.API_HostAddress = http://localhost:5031
+
+GET {{EmailAutomation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

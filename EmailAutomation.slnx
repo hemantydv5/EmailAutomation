@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="EmailAutomation.API/EmailAutomation.API.csproj" />
+</Solution>
